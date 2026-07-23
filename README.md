@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 I am 栗子昂, an MTS @ [humans& ai](https://humansand.ai/) working on the full-stack of LLM performance engineering. I graduated from University of Michigan, Ann Arbor (BS), after I transfered and spent 2 years at Chinese University of Hong Kong, Shenzhen.
 
+[News] Check out our NVFP4 RL recipe blog:
+- https://humansand.ai/blog/nvfp4-rl
+
 Something I have been working on recently:
 - nvfp4 RL recipe
 - mxfp8 RL
