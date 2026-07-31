@@ -19,6 +19,7 @@ I am 栗子昂, an MTS @ [humans& ai](https://humansand.ai/) working on the full
 
 [News] Check out our NVFP4 RL recipe blog:
 - https://humansand.ai/blog/nvfp4-rl
+- https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl
 
 Something I have been working on recently:
 - nvfp4 RL recipe
