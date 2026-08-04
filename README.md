@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 I am 栗子昂, an MTS @ [humans& ai](https://humansand.ai/) working on the full-stack of LLM performance engineering. I graduated from University of Michigan, Ann Arbor (BS), after I transfered and spent 2 years at Chinese University of Hong Kong, Shenzhen.
 
-[News] Check out our NVFP4 RL recipe blog:
+**[News]** Check out my invited talk at GPU MODE:
+- https://youtu.be/wiaUh82NEoE?si=gVBqCqZm092l1bbA
+
+**[News]** Check out our NVFP4 RL recipe blogs:
 - https://humansand.ai/blog/nvfp4-rl
 - https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl
 
