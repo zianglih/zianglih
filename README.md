@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 I am 栗子昂, an MTS @ [humans& ai](https://humansand.ai/) working on the full-stack of LLM performance engineering. I graduated from University of Michigan, Ann Arbor (BS), after I transfered and spent 2 years at Chinese University of Hong Kong, Shenzhen.
 
+**[News]** RL weight sync now takes <0.23s, with GPU-native (de)compression:
+- https://humansand.ai/blog/gpu-accelerated-weight-teleportation
+
 **[News]** Faster-than-light + more accurate NVFP4 decode, and a RL recipe:
 - https://humansand.ai/blog/faster-than-light-nvfp4-decode
 
